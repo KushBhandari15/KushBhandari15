@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 
+I'm Kush Bhandari, a pre-junior studying Computer Science at the University of Cincinnati. My pronouns are He/him. While relatively new to programming, I'm currently exploring C++ and Python, with plans to delve into more programming languages in the future.
