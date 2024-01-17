@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **KushBhandari15/KushBhandari15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 
-I'm Kush Bhandari, a pre-junior studying Computer Science at the University of Cincinnati. My pronouns are He/him. While relatively new to programming, I'm currently exploring C++ and Python, with plans to delve into more programming languages in the future.
+### Hi there 👋
+
+I'm Kush Bhandari, a pre-junior studying Computer Science at the University of Cincinnati.
+
+🌱 Currently Learning:
+
+I'm delving into the depths of C++ and SQL, considering specialization in these technologies. Concurrently, I'm exploring the fascinating realm of AI by learning machine learning on the side. It's an exciting journey of expanding my expertise across multiple domains!
+
+
+👯 Looking to Collaborate On:
+
+I'm open to collaborating on projects that align with my interests in machine learning, Artifical Intelligence, and software development. If you have an exciting idea or project, don't hesitate to get in touch!
+
+💬 Ask Me About:
+
+Feel free to reach out for discussions on machine learning, Artifical Intelligence, or software development. Whether you have questions, need advice, or want to brainstorm ideas in these areas, I'm here to help!
+
+📫 How to Reach Me: 
+
+You can reach out to me via bhandakh@mail.uc.edu
+
+😄 Pronouns: 
+ My pronouns are He/him
+
+⚡ Fun Fact:
+
+I once hiked to the summit of a dormant volcano and witnessed the breathtaking sunrise from the peak. Exploring nature's wonders is a passion of mine!
+
+<!-- Feel free to explore my repositories and connect! -->
+Feel free to explore my repositories and connect! 🚀
