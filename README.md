@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm Kush Bhandari, a pre-junior studying Computer Science at the University of Cincinnati.
+I'm Kush Bhandari, a junior studying Computer Science at the University of Cincinnati.
 
 🌱 Currently Learning:
 
