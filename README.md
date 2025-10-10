@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm Kush Bhandari, a junior studying Computer Science at the University of Cincinnati.
+I'm Kush Bhandari, a senior studying Computer Science at the University of Cincinnati.
 
 🌱 Currently Learning:
 
-I'm delving into the depths of C++ and SQL, considering specialization in these technologies. Concurrently, I'm exploring the fascinating realm of AI by learning machine learning on the side. It's an exciting journey of expanding my expertise across multiple domains!
+I'm delving into the depths of Python and SQL, considering specialization in these technologies. Concurrently, I'm exploring the fascinating realm of AI by learning machine learning and deep learning on the side. It's an exciting journey of expanding my expertise across multiple domains!
 
 
 👯 Looking to Collaborate On:
